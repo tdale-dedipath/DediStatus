@@ -38,7 +38,7 @@ params:
   down: "#e60000"
   systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#fafafa"
   enableLastMod: true
   headerTextColor: white
   logo: /img/dedipath_logo2.png
@@ -56,4 +56,4 @@ params:
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
