@@ -41,7 +41,7 @@ params:
   brand: "#0018a7"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/dedipath_logo2.png
+  logo: https://dedipath.com/assets/images/logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
