@@ -53,36 +53,38 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - closed: true
+    - name: Portals
+      closed: true
+    - closed: false
       name: ATL
       description: 12655 Edison Drive, Alpharetta, GA 30005
     - description: "1950 N Stemmons Fwy #2033, Dallas, TX 75207"
       name: DAL
-      closed: true
+      closed: false
     - name: DEN
       description: 8636 S Peoria St, Englewood, CO 80112
-      closed: true
+      closed: false
     - name: JAX
       description: 4905 Belfort Rd, Unit 145, Jacksonville, Florida 32256
-      closed: true
+      closed: false
     - name: LAS
       description: 3330 E Lone Mountain Rd, North Las Vegas, NV 89081
-      closed: true
+      closed: false
     - name: LAX
       description: 3690 Redondo Beach Avenue, Los Angeles 90278
-      closed: true
+      closed: false
     - name: NYJ
       description: 1 Enterprise Avenue North, Secaucus, NJ 07094
-      closed: true
+      closed: false
     - name: PHX
       description: 2500 W Frye Road, Chandler, AZ 85224
-      closed: true
+      closed: false
     - name: SEF
       description: 3355 S 120th Place, Tukwila, WA 98168
-      closed: true
+      closed: false
     - name: SJE
       description: 2151 Mission College Blvd, Santa Clara, CA 95054
-      closed: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
